@@ -25,7 +25,7 @@ For a Guardian, the script will also step you through configuring your DNS recor
 
 ### Prerequisites
 
-1. You have a Domain name purchased through a registrar like Cloudflare or Namecheap, for example `fedimintnow.com`
+1. You have a Domain name purchased through a registrar like Cloudflare or Namecheap, for example `fedimintnow.org`
 2. You have a Linux box configured on DigitalOcean, AWS, Linode, or some other cloud provider, for this example a $12/month Basic Ubuntu 24.04 box with `2` CPU, `4GB` RAM, and `80GB` SSD.
 3. You can run terminal commands on the linux box.
 
